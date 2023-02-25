@@ -47,6 +47,12 @@ return 0;
 /*
 EXPLANATION:
 
-Line 40 is all we need because in the function definition we are making recursion calls that uses line 31 to move through the columns for each iteration / each solution. It also handles our printing for us. This was tricky because when I used col++, I got stuck in Segmentation Fault. probably because the program kept changing col = col + 1 and maybe when it got to col8 it did 8+1 and 9 is bigger than the arr size.
+Line 40 is all we need because in the function definition 
+we are making recursion calls that uses line 31 to move through 
+the columns for each iteration / each solution. It also handles 
+our printing for us. This was tricky because when I used col++, 
+I got stuck in Segmentation Fault. probably because the program 
+kept changing col = col + 1 and maybe when it got to col8 it did 
+8+1 and 9 is bigger than the arr size.
 
 */
