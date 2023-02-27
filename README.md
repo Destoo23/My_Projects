@@ -1,2 +1,2 @@
 # My_Projects
-8th Queens 1Dimensional Representation Using Recursion
+A folder for all the interesting projects I am working on in school and in my own time. Feel free to click around!
